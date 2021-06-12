@@ -1,5 +1,12 @@
 ### Hi there 👋
 
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=DoGooRi&show_icons=true&hide=issues&count_private=true&theme=vue" height="165"/>
+</a>
+<a href="https://github.com/anuraghazra/convoychat">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DoGooRi&layout=compact&hide=SCSS" />
+</a>
+
 <!--
 **DoGooRi/DoGooRi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
